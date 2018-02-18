@@ -25,7 +25,7 @@ description: Joey Allen's personal website.
 navbar-links:
   Contact:  "contact"
   About Me: "aboutme"
-  Projects: "projects"
+  #  Projects: "projects"
   
           #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
           #- Learn markdown: "http://www.markdowntutorial.com/"
