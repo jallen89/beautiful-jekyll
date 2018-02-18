@@ -7,4 +7,4 @@ I am a Ph.D. student at Georiga and a member of [gtisc]. My Research interests i
  machine learning, and systems security.
 
 
-[gtisc] https://cyber.gatech.edu/ "GTISC"
+[gtisc]: https://cyber.gatech.edu/ "GTISC"
