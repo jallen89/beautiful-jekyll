@@ -3,7 +3,9 @@ layout: page
 title: Contact
 ---
 
-* Email: jallen309@gatech.edu
+## Email
+
+jallen309@gatech.edu
 
 ## Office
 
