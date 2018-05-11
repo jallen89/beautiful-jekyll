@@ -23,6 +23,7 @@ description: Joey Allen's personal website.
 
 # List of links in the navigation bar
 navbar-links:
+  Publications: "publications"
   Contact:  "contact"
   About Me: "aboutme"
   Projects: "projects"
