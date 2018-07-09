@@ -17,9 +17,6 @@ What makes an application malicious? For the Android platform, this is a difficu
 
 __APPE  Finding The Hidden Scene Behind Description Files for Android Apps__  
 We developed a framework to detect Android applications that made permission requests that were inconsistent with the app's alleged behavior (textual description). Our framework verified permission requests with an accuracy of 82%.  
-[slides][APPE_PRESENTATION]
 
-[appe_poster]: [APPE] "APPE"
-[appe_presentation]: [APPE_PRES] "APPE_PRESENTATION"
-[pDroid]: [pDroid] http://trace.tennessee.edu/utk_gradthes/4020/
-[pDroid_slides]: [pDroid_slides] https://www.slideshare.net/slideshow/embed_code/key/DatqxFPb6Rmign
+[pDroid]: http://trace.tennessee.edu/utk_gradthes/4020/
+[pDroid_slides]: https://www.slideshare.net/slideshow/embed_code/key/DatqxFPb6Rmign
