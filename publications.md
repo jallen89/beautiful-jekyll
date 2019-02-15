@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 <li style="display: list-item;">
-    <b>Improving Accuracy of Android Malware Detection with Lightweight Contextual Awareness (to appear).</b><br/>
+    <b>Improving Accuracy of Android Malware Detection with Lightweight Contextual Awareness.</b><br/>
     Joey Allen, Matthew Landen, Sanya Chaba, Yang Ji, Simon Pak Ho Chung, and Wenke Lee.<br/>
     In <i>Proceedings of the 34th Proceedings of the Annual Conference on Computer Security Applications (ACSAC 2018)</i>,<br/>
     Puerto Rico, USA, December 2018. (<i>acceptance rate: <b>20.1</b>%, 60 out of 299</i>)
@@ -20,7 +20,10 @@ title: Publications
     <span class='meta'>
     </span>
 </li>
+[rtag-paper][Paper]
 
 
 [pikadroid-slides]: ../pdfs/pikadroid-slides.pdf 
 [pikadroid-paper]: ../pdfs/pikadroid-paper.pdf
+[rtag-paper]: ../pdfs/rtag-paper.pdf
+[rtag-slides]: ../pdfs/rtag-slides.pdf
