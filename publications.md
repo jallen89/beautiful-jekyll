@@ -10,7 +10,7 @@ title: Publications
     <span class='meta'>
     </span>
 </li>
-[pikadroid-slides][Slides] [pikadroid-paper][Paper]
+[Slides][pikadroid-slides] [Paper][pikadroid-paper]
 
 <li style="display: list-item;">
     <b>Efficient Data Flow Tagging and Tracking for Refinable Cross-host Attack Investigation.</b><br/>
@@ -20,7 +20,7 @@ title: Publications
     <span class='meta'>
     </span>
 </li>
-[rtag-paper][Paper]
+[Slides][rtag-slides] [Paper][rtag-paper]
 
 
 [pikadroid-slides]: ../pdfs/pikadroid-slides.pdf 
