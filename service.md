@@ -14,7 +14,9 @@ Security Engineer at [credit karma][credit-karma]. \\
 __Project__: [Iterative Hybrid Analysis for Android Malware][hybrid]
 
 ### External Reviewer
-
+* 41st IEEE Symposium on Security and Privacy (S&P) 2020
+* 26th ACM SIGSAC Computer and Communications Security (CCS) 2019
+* 40th IEEE Symposium on Security and Privacy (S&P) 2019
 * 25th ACM SIGSAC Computer and Communications Security (CCS) 2018
 * 3rd IEEE European Symposium on Security and Privacy (EuroS&P) 2018
 * 24th ACM SIGSAC Computer and Communications Security (CCS) 2017
