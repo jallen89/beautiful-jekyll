@@ -9,9 +9,7 @@ jallen309@gatech.edu
 
 ## Office
 
-Georiga Institute of Technology  
-Klaus Advanced Computing Building   
-266 Ferst Drive  
-Room 3110  
-Atlanta, GA 303332  
-
+E0951
+CODE Bldg, Georgia Tech - IISP.
+756 West Peachtree Stree NW
+Atlanta, GA 30332-4016
