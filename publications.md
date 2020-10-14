@@ -3,6 +3,14 @@ layout: page
 title: Publications
 ---
 <li style="display: list-item;">
+    <b>Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack Investigation System (to appear) </b><br>
+    Joey Allen, Zheng Yang, Matthew Landen, Raghav Bhat, Harsh Grover, Andrew Chang, Yang Ji, Roberto Perdisci, Wenke Lee<br>
+    In <i>Proceedings of the 27th ACM Conference on Computer and Communications Security (CCS 2020)</i><br>
+    Orlando Fl, November 2020. 
+    <span class='meta'>
+    </span>
+</li>
+<li style="display: list-item;">
     <b>Improving Accuracy of Android Malware Detection with Lightweight Contextual Awareness.</b><br/>
     Joey Allen, Matthew Landen, Sanya Chaba, Yang Ji, Simon Pak Ho Chung, and Wenke Lee.<br/>
     In <i>Proceedings of the 34th Proceedings of the Annual Conference on Computer Security Applications (ACSAC 2018)</i>,<br/>

@@ -10,6 +10,6 @@ jallen309@gatech.edu
 ## Office
 
 E0951
-CODE Bldg, Georgia Tech - IISP.
+CODA Bldg, Georgia Tech - IISP.
 756 West Peachtree Stree NW
 Atlanta, GA 30332-4016
