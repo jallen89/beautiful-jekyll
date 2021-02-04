@@ -3,10 +3,10 @@ layout: page
 title: Publications
 ---
 <li style="display: list-item;">
-    <b>Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack Investigation System (to appear) </b><br>
+    <b>Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack Investigation System (</b><br>
     Joey Allen, Zheng Yang, Matthew Landen, Raghav Bhat, Harsh Grover, Andrew Chang, Yang Ji, Roberto Perdisci, Wenke Lee<br>
     In <i>Proceedings of the 27th ACM Conference on Computer and Communications Security (CCS 2020)</i><br>
-    Orlando Fl, November 2020. 
+    Orlando Fl, November 2020. (<i>acceptance rate: <b>16.9</b>%, 127 out of 715</i>)
     <span class='meta'>
     </span>
 </li>
