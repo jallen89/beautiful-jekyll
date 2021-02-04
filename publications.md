@@ -37,3 +37,5 @@ title: Publications
 [pikadroid-paper]: ../pdfs/pikadroid-paper.pdf
 [rtag-paper]: ../pdfs/rtag-paper.pdf
 [rtag-slides]: ../pdfs/rtag-slides.pdf
+[mnemosyne-slides]: ../pdfs/mnemosyne-slides.pdf
+[mnemosyne]: ../pdfs/mnemosyne.pdf
