@@ -10,6 +10,8 @@ title: Publications
     <span class='meta'>
     </span>
 </li>
+[Slides][mnemosyne-slides] [Paper][mnemosyne]
+
 <li style="display: list-item;">
     <b>Improving Accuracy of Android Malware Detection with Lightweight Contextual Awareness.</b><br/>
     Joey Allen, Matthew Landen, Sanya Chaba, Yang Ji, Simon Pak Ho Chung, and Wenke Lee.<br/>
